@@ -1,0 +1,85 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+nav{
+   background-color:#003542;
+   font-family: 'Montserrat', sans-serif;   
+}
+#test{
+    height:20px;
+}
+.navbar-brand{
+    font-size: 20px;
+}
+.navbar-brand img{
+    height: 20px;
+}
+h1{
+    color: #003542;
+    height:30px;
+    background-color:  #F7ecd9;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+#button{
+    color: #003542;
+    height:30px;
+    background-color:  #F7ecd9;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width:100%;
+}
+.sty{
+    background-color: #003542;
+    border-radius: 15px;
+    border: 4px solid #F7ecd9;
+    color:#F7ecd9;
+    font-size:15px;
+    font-family: 'Montserrat', sans-serif;
+}
+h2{
+    color:white;
+    margin-bottom:10px;
+    margin-top:10px;
+    font-size:20px;
+}
+
+#image{
+    width: 100%;
+    height:100vh;
+    background-image: url('./desola-lanre-ologun-zYgV-NGZtlA-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    
+}
+#image div{
+    border-radius: 10px;
+}
+#text{
+    font-size:40px;
+    color:white;
+    text-shadow: 10px 5px black;
+    font-family: 'Montserrat', sans-serif;
+}
+form{
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+#text p{
+    width:50%;
+}
+nav a{
+    color:white;
+    font-size:20px;
+}
